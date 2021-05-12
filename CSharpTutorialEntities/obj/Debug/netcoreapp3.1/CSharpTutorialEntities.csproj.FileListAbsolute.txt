@@ -1,0 +1,12 @@
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\obj\Debug\netcoreapp3.1\CSharpTutorialEntities.csprojAssemblyReference.cache
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\obj\Debug\netcoreapp3.1\CSharpTutorialEntities.AssemblyInfoInputs.cache
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\obj\Debug\netcoreapp3.1\CSharpTutorialEntities.AssemblyInfo.cs
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\obj\Debug\netcoreapp3.1\CSharpTutorialEntities.csproj.CoreCompileInputs.cache
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\bin\Debug\netcoreapp3.1\CSharpTutorialEntities.deps.json
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\bin\Debug\netcoreapp3.1\CSharpTutorialEntities.runtimeconfig.json
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\bin\Debug\netcoreapp3.1\CSharpTutorialEntities.runtimeconfig.dev.json
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\bin\Debug\netcoreapp3.1\CSharpTutorialEntities.dll
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\bin\Debug\netcoreapp3.1\CSharpTutorialEntities.pdb
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\obj\Debug\netcoreapp3.1\CSharpTutorialEntities.dll
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\obj\Debug\netcoreapp3.1\CSharpTutorialEntities.pdb
+C:\Users\felip\CSharp\CSharpTutorial\CSharpTutorial\CSharpTutorialEntities\obj\Debug\netcoreapp3.1\CSharpTutorialEntities.genruntimeconfig.cache
